@@ -3,7 +3,6 @@ from distutils import command
 from distutils.command.config import config
 import tkinter
 import tkinter as tk
-from tkinter import Place, font
 
 clicks = 0
 checks = " "
