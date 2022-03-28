@@ -1,7 +1,3 @@
-from asyncio import events
-from distutils import command
-from distutils.command.config import config
-import tkinter
 import tkinter as tk
 
 clicks = 0
